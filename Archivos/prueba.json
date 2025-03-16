@@ -93,5 +93,24 @@
     "user": null,
     "status": "Libre",
     "votes": 0
+  },
+  {
+    "id": "1742103612115",
+    "name": "Yoshino Hinekaka",
+    "gender": "Mujer",
+    "value": "100",
+    "source": "Date a Live",
+    "img": [
+      "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742103397702.jpeg",
+      "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742103348099.jpeg",
+      "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742103343787.jpeg"
+    ],
+    "vid": [
+      "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742103455099.mp4",
+      "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742103450619.mp4"
+    ],
+    "user": null,
+    "status": "Libre",
+    "votes": 0
   }
 ]
