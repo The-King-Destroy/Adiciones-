@@ -112,5 +112,24 @@
     "user": null,
     "status": "Libre",
     "votes": 0
+  },
+  {
+    "id": "1742104168385",
+    "name": "Yuzuru Yamai",
+    "gender": "Mujer",
+    "value": "100",
+    "source": "Date a Live",
+    "img": [
+      "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742104020737.jpeg",
+      "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742104016060.jpeg",
+      "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742104025835.jpeg"
+    ],
+    "vid": [
+      "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742104035826.mp4",
+      "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742104040100.mp4"
+    ],
+    "user": null,
+    "status": "Libre",
+    "votes": 0
   }
 ]
