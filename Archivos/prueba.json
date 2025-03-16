@@ -36,5 +36,24 @@
     "user": null,
     "status": "Libre",
     "votes": 0
+  },
+  {
+    "id": "1742102379633",
+    "name": "Reine Murasame",
+    "gender": "Mujer",
+    "value": "100",
+    "source": "Date a Live",
+    "img": [
+      "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742102279257.jpeg",
+      "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742102282844.jpeg",
+      "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742102291237.jpeg"
+    ],
+    "vid": [
+      "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742102307783.mp4",
+      "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742102310787.mp4"
+    ],
+    "user": null,
+    "status": "Libre",
+    "votes": 0
   }
 ]
