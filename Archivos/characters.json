@@ -1,1 +1,21 @@
-[]
+[
+   {
+      "id": "1742148466414",
+      "name": "Megumin",
+      "gender": "Mujer",
+      "value": 1635,
+      "source": "Konosuba",
+      "img": [
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742148356077.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742148351605.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742148347916.jpeg"
+      ],
+      "vid": [
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742148363784.mp4",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742148360005.mp4"
+      ],
+      "user": null,
+      "status": "Libre",
+      "votes": 0
+   }
+]
