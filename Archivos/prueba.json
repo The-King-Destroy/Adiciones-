@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "id": "1742101165943",
+    "name": "Yachiho Azuma",
+    "gender": "Mujer",
+    "value": "100",
+    "source": "Mato Seihei no Slave",
+    "img": [
+      "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742090237896.jpeg",
+      "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742090244171.jpeg",
+      "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742090240664.jpeg"
+    ],
+    "vid": [
+      "https://files.catbox.moe/fa7k9j.mp4",
+      "https://files.catbox.moe/005e6e.mp4"
+    ],
+    "user": null,
+    "status": "Libre",
+    "votes": 0
+  }
+]
