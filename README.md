@@ -1,4 +1,4 @@
-<h1 align="center">✦ Adiciones de Yuki ✦</h1> 
+<h1 align="center">❀ Adiciones de Yuki</h1> 
 
 <img src="https://files.catbox.moe/om9jai.jpg">
 
