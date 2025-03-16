@@ -131,5 +131,24 @@
     "user": null,
     "status": "Libre",
     "votes": 0
+  },
+  {
+    "id": "1742105203711",
+    "name": "Kaguya Yamai",
+    "gender": "Mujer",
+    "value": "100",
+    "source": "Date a Live",
+    "img": [
+      "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742104937309.jpeg",
+      "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742104941919.jpeg",
+      "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742104952256.jpeg"
+    ],
+    "vid": [
+      "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742104960473.mp4",
+      "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742104967723.mp4"
+    ],
+    "user": null,
+    "status": "Libre",
+    "votes": 0
   }
 ]
