@@ -511,5 +511,21 @@
       "user": null,
       "status": "Libre",
       "votes": 0
+   },
+   {
+      "id": "1742245272881",
+      "name": "hola",
+      "gender": "Mujer",
+      "value": 1995,
+      "source": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
+      "img": [
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742243224887.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742243246441.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742243339812.jpeg"
+      ],
+      "vid": [
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742243346947.mp4",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742243353048.mp4"
+      ]
    }
 ]
