@@ -321,5 +321,24 @@
       "user": null,
       "status": "Libre",
       "votes": 0
+   },
+   {
+      "id": "1742232547051",
+      "name": "Ellen Joe",
+      "gender": "Mujer",
+      "value": 1948,
+      "source": "Zenless zone Zero",
+      "img": [
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742232387204.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742232331968.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742232295279.jpeg"
+      ],
+      "vid": [
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742232303609.mp4",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742232390857.mp4"
+      ],
+      "user": null,
+      "status": "Libre",
+      "votes": 0
    }
 ]
