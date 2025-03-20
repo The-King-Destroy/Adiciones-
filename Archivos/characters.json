@@ -4276,5 +4276,21 @@
       "user": null,
       "status": "Libre",
       "votes": 0
+   },
+   {
+      "id": "1742429751609",
+      "name": "Yaku Yakuzen",
+      "gender": "Mujer",
+      "value": 1941,
+      "source": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
+      "img": [
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742429727916.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742429724403.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742429718533.jpeg"
+      ],
+      "vid": [],
+      "user": null,
+      "status": "Libre",
+      "votes": 0
    }
 ]
