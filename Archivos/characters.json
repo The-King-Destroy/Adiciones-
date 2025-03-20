@@ -4311,5 +4311,21 @@
       "user": null,
       "status": "Libre",
       "votes": 0
+   },
+   {
+      "id": "1742431938863",
+      "name": "Tama Nekomari",
+      "gender": "Mujer",
+      "value": 1102,
+      "source": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
+      "img": [
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742431836232.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742431843675.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742431913424.jpeg"
+      ],
+      "vid": [],
+      "user": null,
+      "status": "Libre",
+      "votes": 0
    }
 ]
