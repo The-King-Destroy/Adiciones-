@@ -4361,9 +4361,9 @@
       "value": "1200",
       "source": "Geshin Impact",
       "img": [
-          "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742508023756.jpeg",
-          "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742508029651.jpeg",
-          "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742508033284.jpeg"
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742508023756.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742508029651.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742508033284.jpeg"
       ],
       "vid": [],
       "user": null,
@@ -4377,25 +4377,25 @@
       "value": "1693",
       "source": "Bleach",
       "img": [
-          "https://files.catbox.moe/qf45ap.jpg",
-          "https://files.catbox.moe/bwyfhm.jpg",
-          "https://files.catbox.moe/dhvqqo.jpg"
+         "https://files.catbox.moe/qf45ap.jpg",
+         "https://files.catbox.moe/bwyfhm.jpg",
+         "https://files.catbox.moe/dhvqqo.jpg"
       ],
       "vid": [],
       "user": null,
       "status": "Libre",
       "votes": 0
    },
-   { 
+   {
       "id": "235",
       "name": "Kokushibo",
       "gender": "Hombre",
       "value": "1710",
       "source": "Demon Slayer",
       "img": [
-          "https://files.catbox.moe/y77rbe.jpg",
-          "https://files.catbox.moe/cmokas.jpg",
-          "https://files.catbox.moe/4bck2i.jpg"
+         "https://files.catbox.moe/y77rbe.jpg",
+         "https://files.catbox.moe/cmokas.jpg",
+         "https://files.catbox.moe/4bck2i.jpg"
       ],
       "vid": [],
       "user": null,
@@ -4409,35 +4409,35 @@
       "value": "1680",
       "source": "Geshin Impact",
       "img": [
-          "https://files.catbox.moe/0mwj9u.jpeg",
-          "https://files.catbox.moe/hil8bf.jpeg",
-          "https://files.catbox.moe/l2sf04.webp"
+         "https://files.catbox.moe/0mwj9u.jpeg",
+         "https://files.catbox.moe/hil8bf.jpeg",
+         "https://files.catbox.moe/l2sf04.webp"
       ],
       "vid": [
-          "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742592035837.mp4",
-          "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742592029144.mp4"
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742592035837.mp4",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742592029144.mp4"
       ],
       "user": null,
       "status": "Libre",
       "votes": 0
    },
-   {  
+   {
       "id": "237",
       "name": "Sebastián Michaelis",
       "gender": "Hombre",
       "value": "1500",
       "source": "Black Butler",
       "img": [
-          "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742710600212.jpeg",
-          "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742710617530.jpeg",
-          "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742710607941.jpeg"
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742710600212.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742710617530.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742710607941.jpeg"
       ],
       "vid": [],
       "user": null,
       "status": "Libre",
       "votes": 0
    },
-      {
+   {
       "id": "238",
       "name": "Natsumi",
       "gender": "Mujer",
@@ -4531,5 +4531,24 @@
       "user": null,
       "status": "Libre",
       "votes": 0
-  }
+   },
+   {
+      "id": "1742740325198",
+      "name": "Kazuto kirigaya",
+      "gender": "Hombre",
+      "value": "1516",
+      "source": "Sword Art Online",
+      "img": [
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742739789271.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742739784951.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742739780806.jpeg"
+      ],
+      "vid": [
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742739711462.mp4",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742739707682.mp4"
+      ],
+      "user": null,
+      "status": "Libre",
+      "votes": 0
+   }
 ]
