@@ -3049,25 +3049,6 @@
       "votes": 0
    },
    {
-      "id": "163",
-      "name": "Akeno Himejima",
-      "gender": "Mujer",
-      "value": "1870",
-      "source": "High School DxD",
-      "img": [
-         "https://files.catbox.moe/wyqqo0.jpg",
-         "https://files.catbox.moe/r8s1og.jpg",
-         "https://files.catbox.moe/5yand7.jpg"
-      ],
-      "vid": [
-         "https://files.catbox.moe/4aj1hf.mp4",
-         "https://files.catbox.moe/pnfz96.mp4"
-      ],
-      "user": null,
-      "status": "libre",
-      "votes": 0
-   },
-   {
       "id": "164",
       "name": "Koneko Toujou",
       "gender": "Mujer",
@@ -4648,6 +4629,25 @@
       ],
       "user": null,
       "status": "Libre",
+      "votes": 0
+   },
+   {
+      "id": "250",
+      "name": "Akeno Himejima",
+      "gender": "Mujer",
+      "value": "1870",
+      "source": "High School DxD",
+      "img": [
+         "https://files.catbox.moe/wyqqo0.jpg",
+         "https://files.catbox.moe/r8s1og.jpg",
+         "https://files.catbox.moe/5yand7.jpg"
+      ],
+      "vid": [
+         "https://files.catbox.moe/4aj1hf.mp4",
+         "https://files.catbox.moe/pnfz96.mp4"
+      ],
+      "user": null,
+      "status": "libre",
       "votes": 0
    },
    {
