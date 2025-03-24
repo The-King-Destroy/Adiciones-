@@ -4884,5 +4884,24 @@
       "user": null,
       "status": "Libre",
       "votes": 0
+   },
+   {
+      "id": "1742845141329",
+      "name": "Asuna",
+      "gender": "Mujer",
+      "value": "1572",
+      "source": "Blue Archive",
+      "img": [
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742844974843.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742844954241.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742844960618.jpeg"
+      ],
+      "vid": [
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742844975741.mp4",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742845006057.mp4"
+      ],
+      "user": null,
+      "status": "Libre",
+      "votes": 0
    }
 ]
