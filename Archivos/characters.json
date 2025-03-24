@@ -4725,5 +4725,24 @@
       "user": null,
       "status": "Libre",
       "votes": 0
+   },
+   {
+      "id": "1742788153497",
+      "name": "Sylphiette",
+      "gender": "Mujer",
+      "value": "1169",
+      "source": "Mushoku Tensei",
+      "img": [
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742785629780.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742785639304.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742785645662.jpeg"
+      ],
+      "vid": [
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742786840191.mp4",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742786867844.mp4"
+      ],
+      "user": null,
+      "status": "Libre",
+      "votes": 0
    }
 ]
