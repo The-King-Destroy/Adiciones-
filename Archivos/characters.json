@@ -5027,5 +5027,24 @@
       "user": null,
       "status": "Libre",
       "votes": 0
+   },
+   {
+      "id": "1742848366771",
+      "name": "Hina",
+      "gender": "Mujer",
+      "value": "1632",
+      "source": "Blue Archive",
+      "img": [
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742848198557.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742848270137.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742848156376.jpeg"
+      ],
+      "vid": [
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742848238009.mp4",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742848292782.mp4"
+      ],
+      "user": null,
+      "status": "Libre",
+      "votes": 0
    }
 ]
