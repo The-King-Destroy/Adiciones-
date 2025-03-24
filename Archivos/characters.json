@@ -4361,9 +4361,9 @@
       "value": "1200",
       "source": "Geshin Impact",
       "img": [
-          "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742508023756.jpeg",
-          "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742508029651.jpeg",
-          "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742508033284.jpeg"
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742508023756.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742508029651.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742508033284.jpeg"
       ],
       "vid": [],
       "user": null,
@@ -4377,25 +4377,25 @@
       "value": "1693",
       "source": "Bleach",
       "img": [
-          "https://files.catbox.moe/qf45ap.jpg",
-          "https://files.catbox.moe/bwyfhm.jpg",
-          "https://files.catbox.moe/dhvqqo.jpg"
+         "https://files.catbox.moe/qf45ap.jpg",
+         "https://files.catbox.moe/bwyfhm.jpg",
+         "https://files.catbox.moe/dhvqqo.jpg"
       ],
       "vid": [],
       "user": null,
       "status": "Libre",
       "votes": 0
    },
-   { 
+   {
       "id": "235",
       "name": "Kokushibo",
       "gender": "Hombre",
       "value": "1710",
       "source": "Demon Slayer",
       "img": [
-          "https://files.catbox.moe/y77rbe.jpg",
-          "https://files.catbox.moe/cmokas.jpg",
-          "https://files.catbox.moe/4bck2i.jpg"
+         "https://files.catbox.moe/y77rbe.jpg",
+         "https://files.catbox.moe/cmokas.jpg",
+         "https://files.catbox.moe/4bck2i.jpg"
       ],
       "vid": [],
       "user": null,
@@ -4409,35 +4409,35 @@
       "value": "1780",
       "source": "Geshin Impact",
       "img": [
-          "https://files.catbox.moe/0mwj9u.jpeg",
-          "https://files.catbox.moe/hil8bf.jpeg",
-          "https://files.catbox.moe/l2sf04.webp"
+         "https://files.catbox.moe/0mwj9u.jpeg",
+         "https://files.catbox.moe/hil8bf.jpeg",
+         "https://files.catbox.moe/l2sf04.webp"
       ],
       "vid": [
-          "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742592035837.mp4",
-          "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742592029144.mp4"
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742592035837.mp4",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742592029144.mp4"
       ],
       "user": null,
       "status": "Libre",
       "votes": 0
    },
-   {  
+   {
       "id": "237",
       "name": "Sebastián Michaelis",
       "gender": "Hombre",
       "value": "1500",
       "source": "Black Butler",
       "img": [
-          "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742710600212.jpeg",
-          "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742710617530.jpeg",
-          "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742710607941.jpeg"
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742710600212.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742710617530.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742710607941.jpeg"
       ],
       "vid": [],
       "user": null,
       "status": "Libre",
       "votes": 0
    },
-      {
+   {
       "id": "238",
       "name": "Natsumi",
       "gender": "Mujer",
@@ -4531,123 +4531,142 @@
       "user": null,
       "status": "Libre",
       "votes": 0
-  },
-  { 
+   },
+   {
       "id": "243",
       "name": "Soi Fon",
       "gender": "Mujer",
       "value": "1878",
       "source": "Bleach",
       "img": [
-          "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742740867362.jpeg",
-          "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742740874542.jpeg",
-          "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742740890406.jpeg"
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742740867362.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742740874542.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742740890406.jpeg"
       ],
       "vid": [
-          "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742740895420.mp4",
-          "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742740899076.mp4"
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742740895420.mp4",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742740899076.mp4"
       ],
       "user": null,
       "status": "Libre",
       "votes": 0
-  },
-  {
+   },
+   {
       "id": "244",
       "name": "Son Goku",
       "gender": "Hombre",
       "value": "1857",
       "source": "Dragón ball",
       "img": [
-          "https://files.catbox.moe/1v15t7.jpg",
-          "https://files.catbox.moe/i13njg.jpg",
-          "https://files.catbox.moe/irac7y.jpg"
+         "https://files.catbox.moe/1v15t7.jpg",
+         "https://files.catbox.moe/i13njg.jpg",
+         "https://files.catbox.moe/irac7y.jpg"
       ],
       "vid": [],
       "user": null,
       "status": "Libre",
       "votes": 0
-  },
-  {
+   },
+   {
       "id": "245",
       "name": "Chi chi",
       "gender": "Mujer",
       "value": "1874",
       "source": "Dragón ball",
       "img": [
-          "https://files.catbox.moe/17d2bh.jpg",
-          "https://files.catbox.moe/vh43vl.jpg",
-          "https://files.catbox.moe/q6nunk.jpg"
+         "https://files.catbox.moe/17d2bh.jpg",
+         "https://files.catbox.moe/vh43vl.jpg",
+         "https://files.catbox.moe/q6nunk.jpg"
       ],
       "vid": [],
       "user": null,
       "status": "Libre",
       "votes": 0
-  },
-  {
+   },
+   {
       "id": "246",
       "name": "Cell",
       "gender": "Hombre",
       "value": "1858",
       "source": "Dragón ball",
       "img": [
-          "https://files.catbox.moe/iylzl4.jpg",
-          "https://files.catbox.moe/4nvfva.jpg",
-          "https://files.catbox.moe/xrz4t0.jpg"
+         "https://files.catbox.moe/iylzl4.jpg",
+         "https://files.catbox.moe/4nvfva.jpg",
+         "https://files.catbox.moe/xrz4t0.jpg"
       ],
       "vid": [],
       "user": null,
       "status": "Libre",
       "votes": 0
-  },
-  {
+   },
+   {
       "id": "247",
       "name": "Astolfo",
       "gender": "Hombre",
       "value": "1609",
       "source": "fate",
       "img": [
-          "https://files.catbox.moe/9k81u0.jpg",
-          "https://files.catbox.moe/0pk19n.jpg",
-          "https://files.catbox.moe/ai8oj6.jpg"
+         "https://files.catbox.moe/9k81u0.jpg",
+         "https://files.catbox.moe/0pk19n.jpg",
+         "https://files.catbox.moe/ai8oj6.jpg"
       ],
       "vid": [],
       "user": null,
       "status": "Libre",
       "votes": 0
-  },
-  {
+   },
+   {
       "id": "248",
       "name": "Kurosaki Ichigo",
       "gender": "Hombre",
       "value": "1424",
       "source": "Bleach",
       "img": [
-          "https://files.catbox.moe/unmjhb.jpeg",
-          "https://files.catbox.moe/m4w171.jpeg",
-          "https://files.catbox.moe/lsgt3r.jpeg"
+         "https://files.catbox.moe/unmjhb.jpeg",
+         "https://files.catbox.moe/m4w171.jpeg",
+         "https://files.catbox.moe/lsgt3r.jpeg"
       ],
       "vid": [],
       "user": null,
       "status": "Libre",
       "votes": 0
-  },
-  {
+   },
+   {
       "id": "249",
       "name": "Kazuto Kirigaya",
       "gender": "Hombre",
       "value": "1953",
       "source": "Sword Art Online",
       "img": [
-          "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742739789271.jpeg",
-          "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742739784951.jpeg",
-          "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742739780806.jpeg"
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742739789271.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742739784951.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742739780806.jpeg"
       ],
       "vid": [
-          "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742739711462.mp4",
-          "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742739707682.mp4"
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742739711462.mp4",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742739707682.mp4"
       ],
       "user": null,
       "status": "Libre",
       "votes": 0
-  }
+   },
+   {
+      "id": "1742785914925",
+      "name": "Roxy Migurdia",
+      "gender": "Mujer",
+      "value": "1648",
+      "source": "Mushoku Tensei",
+      "img": [
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742785521927.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742785481622.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742785476569.jpeg"
+      ],
+      "vid": [
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742785803290.mp4",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742785809456.mp4"
+      ],
+      "user": null,
+      "status": "Libre",
+      "votes": 0
+   }
 ]
