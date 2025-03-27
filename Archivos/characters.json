@@ -5866,5 +5866,24 @@
       "user": null,
       "status": "Libre",
       "votes": 0
+   },
+   {
+      "id": "1743091848676",
+      "name": "Airi",
+      "gender": "Mujer",
+      "value": "1895",
+      "source": "Blue Archive",
+      "img": [
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743091072508.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743091100332.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743091112438.jpeg"
+      ],
+      "vid": [
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743091293133.mp4",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743091835309.mp4"
+      ],
+      "user": null,
+      "status": "Libre",
+      "votes": 0
    }
 ]
