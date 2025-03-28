@@ -6512,5 +6512,23 @@
       "user": null,
       "status": "Libre",
       "votes": 0
+   },
+   {
+      "id": "1743174783643",
+      "name": "Coach",
+      "gender": "Hombre",
+      "value": "1196",
+      "source": "left 4 dead 2",
+      "img": [
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743174109391.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743174679134.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743174676679.jpeg"
+      ],
+      "vid": [
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743174676679.jpeg"
+      ],
+      "user": null,
+      "status": "Libre",
+      "votes": 0
    }
 ]
