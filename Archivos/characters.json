@@ -6656,5 +6656,21 @@
       "user": null,
       "status": "Libre",
       "votes": 0
+   },
+   {
+      "id": "1743645062185",
+      "name": "Tenshinhan",
+      "gender": "Hombre",
+      "value": "1853",
+      "source": "Dragón ball",
+      "img": [
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743644956643.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743644960077.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743644962050.jpeg"
+      ],
+      "vid": [],
+      "user": null,
+      "status": "Libre",
+      "votes": 0
    }
 ]
