@@ -6848,5 +6848,21 @@
       "user": null,
       "status": "Libre",
       "votes": 0
+   },
+   {
+      "id": "1743673269069",
+      "name": "Tori-bot",
+      "gender": "Hombre",
+      "value": "1261",
+      "source": "Dragón ball",
+      "img": [
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743673201582.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743673207023.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743673211160.jpeg"
+      ],
+      "vid": [],
+      "user": null,
+      "status": "Libre",
+      "votes": 0
    }
 ]
