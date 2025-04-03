@@ -6444,16 +6444,16 @@
       "status": "Libre",
       "votes": 0
    },
-   {   
+   {
       "id": "353",
       "name": "Varesa",
       "gender": "Mujer",
       "value": "1998",
       "source": "Genshin Impact",
       "img": [
-          "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743172357430.jpeg",
-          "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743172342051.jpeg",
-          "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743172336403.jpeg"
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743172357430.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743172342051.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743172336403.jpeg"
       ],
       "vid": [],
       "user": null,
@@ -6467,13 +6467,13 @@
       "value": "1991",
       "source": "Genshin Impact",
       "img": [
-          "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743173312871.jpeg",
-          "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743173319475.jpeg",
-          "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743173324158.jpeg"
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743173312871.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743173319475.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743173324158.jpeg"
       ],
       "vid": [
-          "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743173334558.mp4",
-          "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743173337371.mp4"
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743173334558.mp4",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743173337371.mp4"
       ],
       "user": null,
       "status": "Libre",
@@ -6486,15 +6486,31 @@
       "value": "1196",
       "source": "left 4 dead 2",
       "img": [
-          "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743174109391.jpeg",
-          "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743174679134.jpeg",
-          "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743174676679.jpeg"
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743174109391.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743174679134.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743174676679.jpeg"
       ],
       "vid": [
-          "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743174676679.jpeg"
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743174676679.jpeg"
       ],
       "user": null,
       "status": "Libre",
       "votes": 0
-  }
+   },
+   {
+      "id": "1743642781023",
+      "name": "Vegeta",
+      "gender": "Hombre",
+      "value": "1957",
+      "source": "Dragón ball",
+      "img": [
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743642701706.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743642717943.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1743642728017.jpeg"
+      ],
+      "vid": [],
+      "user": null,
+      "status": "Libre",
+      "votes": 0
+   }
 ]
