@@ -7088,5 +7088,23 @@
       "user": null,
       "status": "Libre",
       "votes": 0
+   },
+   {
+      "id": "1744251681298",
+      "name": "ri-chan",
+      "gender": "Mujer",
+      "value": "1259",
+      "source": "ri-chan",
+      "img": [
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1744249747214.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1744249753937.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1744249761286.jpeg"
+      ],
+      "vid": [
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1744249768224.jpeg"
+      ],
+      "user": null,
+      "status": "Libre",
+      "votes": 0
    }
 ]
